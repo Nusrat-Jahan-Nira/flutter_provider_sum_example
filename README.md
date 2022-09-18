@@ -1,4 +1,4 @@
-# test_provider
+# Two number sum using Provider
 
 A new Flutter project.
 
